@@ -25,7 +25,13 @@ int main(){
     //     printf("Characters Counted: %d\n", count);
     // }
 
-
+    // // SOLUTION 1
+    // int c;
+    // int count = 0;
+    // while ((c = getchar()) != EOF) {
+    //     ++count;
+    //     printf("Characters: %c\n", c);
+    // }
 
 
 
